@@ -59,7 +59,6 @@ form .text-field input {
 }
 
 form .text-field label {
-    font-family: "Lato", serif;
     font-size: 18px;
     color: grey;
     font-weight: 600;
@@ -121,7 +120,7 @@ form button {
     margin-top: 10px;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 480px) {
     form {
         padding: 20px 30px;
     }
